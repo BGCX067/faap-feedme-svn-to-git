@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Feed Me</string>
+    <string name="title_plan">Wochenplan</string>
+    <string name="title_recipes">Rezepte</string>
+
+    <!-- Indicator -->
+    <string name="ind_week">Diese Woche</string>
+    <string name="ind_planner">Vorgaben</string>
+    <string name="ind_ingredients">Zutaten</string>
+    <string name="ind_preperation">Zubereitung</string>
+    <string name="ind_effort">Aufwand</string>
+    <string name="ind_type">Art</string>
+    <string name="ind_cuisine">Herkunft</string>
+
+    <!-- Weekdays -->
+    <string name="mon">Mo</string>
+    <string name="tue">Di</string>
+    <string name="wed">Mi</string>
+    <string name="thu">Do</string>
+    <string name="fri">Fr</string>
+    <string name="sat">Sa</string>
+    <string name="sun">So</string>
+
+    <!-- Dashboard -->
+    <string name="db_plan">Wochenplan</string>
+    <string name="db_recipes">Rezepte</string>
+    <string name="db_update">Update</string>
+    
+    <!--  Preperation -->
+    <string name="prep_portions">Portionen</string>
+    <string name="prep_dialog">Bitte wählen Sie die gewünschte Anzahl an Portionen aus.</string>	
+
+</resources>

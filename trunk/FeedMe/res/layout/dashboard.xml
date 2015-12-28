@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.iosched.ui.widget.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/dashboard_btn_plan"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_planer"
+        android:text="@string/db_plan" />
+
+    <Button
+        android:id="@+id/dashboard_btn_recipes"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_recipes"
+        android:text="@string/db_recipes" />
+
+    <Button
+        android:id="@+id/dashboard_btn_update"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_update"
+        android:text="@string/db_update" />
+
+</com.google.android.apps.iosched.ui.widget.DashboardLayout>

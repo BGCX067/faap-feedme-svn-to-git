@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dashboard -->
+    <color name="accent_1">#ff29549f</color>
+
+    <!-- Actionbar -->
+    <color name="actionbar_title_color">#224894</color>
+
+</resources>

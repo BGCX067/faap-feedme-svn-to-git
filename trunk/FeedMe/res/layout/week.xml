@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="1" >
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/sat" />
+
+        <TextView
+            android:id="@+id/rcp_sat"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_sat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/sun" />
+
+        <TextView
+            android:id="@+id/rcp_sun"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_sun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/mon" />
+
+        <TextView
+            android:id="@+id/rcp_mon"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_mon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/tue" />
+
+        <TextView
+            android:id="@+id/rcp_tue"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_tue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/wed" />
+
+        <TextView
+            android:id="@+id/rcp_wed"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_wed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/thu" />
+
+        <TextView
+            android:id="@+id/rcp_thu"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_thu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+    <TableRow >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:padding="3dip"
+            android:text="@string/fri" />
+
+        <TextView
+            android:id="@+id/rcp_fri"
+            android:layout_column="2"
+            android:layout_weight="4"
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="Essen" />
+
+        <Button
+        	android:id="@+id/rcp_btn_fri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Ref" >
+        </Button>
+    </TableRow>
+
+</TableLayout>
